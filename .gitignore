@@ -1,3 +1,9 @@
+.vscode
+build
+sdkconfig
+sdkconfig.old
+debug.old
+.devcontainer
 # Prerequisites
 *.d
 
